@@ -1,2 +1,2 @@
 # Differential-Geometry-Project
-This is a 50-page project submitted as part of the MATH 661: Differential Geometry course during my Master’s degree in Mathematics at Taibah University. 
+This is a 50-page project submitted as part of the MATH 661: Differential Geometry course during my Master’s degree in Mathematics at Taibah University. The project, worth 10 marks, covers fundamental concepts in differential geometry, including curves in ℝ³, arc length, Frenet-Serret frames, plane curves, involutes and evolutes, Bertrand curves, and various global properties. It includes detailed examples, derivations, and exercises aimed at solidifying understanding of the subject matter.
